@@ -1,5 +1,9 @@
 [
   {
+    "package": "asteRisk",
+    "oncran": true
+  },
+  {
     "package": "openSkies",
     "oncran": true
   }
