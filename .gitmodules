@@ -8,6 +8,11 @@
 	url = https://github.com/rafael-ayala/asterisk
 	shallow = true
 	registered = true
+[submodule "NutrienTrackeR"]
+	path = NutrienTrackeR
+	url = https://github.com/cran/NutrienTrackeR
+	shallow = true
+	registered = true
 [submodule "openSkies"]
 	path = openSkies
 	url = https://github.com/rafael-ayala/openskies
