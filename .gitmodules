@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "asteRisk"]
 	path = asteRisk
 	url = https://github.com/rafael-ayala/asterisk
-	shallow = true
-	registered = true
 [submodule "NutrienTrackeR"]
 	path = NutrienTrackeR
 	url = https://github.com/cran/NutrienTrackeR
-	shallow = true
-	registered = true
 [submodule "openSkies"]
 	path = openSkies
 	url = https://github.com/rafael-ayala/openskies
-	shallow = true
-	registered = true
