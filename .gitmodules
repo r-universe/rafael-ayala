@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "asteRisk"]
-	path = asteRisk
-	url = https://github.com/rafael-ayala/asterisk
 [submodule "NutrienTrackeR"]
 	path = NutrienTrackeR
 	url = https://github.com/cran/NutrienTrackeR
+[submodule "asteRisk"]
+	path = asteRisk
+	url = https://github.com/rafael-ayala/asterisk
 [submodule "openSkies"]
 	path = openSkies
 	url = https://github.com/rafael-ayala/openskies
